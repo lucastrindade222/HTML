@@ -1,0 +1,181 @@
+
+
+body{
+
+background-image: url("/img/fundo.jpg");
+
+
+}
+
+
+.a{
+
+background-color:slateblue;
+margin: 50px 200px 0px 200px;
+text-align: center;
+color:white;
+border-radius: 12px;
+
+}
+
+.a:hover {
+
+background-color: rgb(194, 241, 22);
+color: rgb(0, 119, 255);
+transition-duration: 5s;
+
+}
+
+#b{
+     
+ width: 150px;
+ margin: 0px 0px 0px 40px;
+ border-radius: 15px;
+ border: 5px solid rgb(92, 55, 55);
+}
+
+#b:hover{
+  transition-duration: 2s;
+    opacity: 0.4;
+}
+
+
+.b{
+
+    background-color: rgba(0, 0, 0, 0.2);
+    margin: 0px 0px 50px 0px;
+     
+}
+
+
+
+.c{
+
+background-color: rgba(0, 0, 0, 0.2);
+margin: 0px 0px 50px 0px;
+}
+
+#c{
+
+width: 150px;
+border: 2px solid rgb(0, 119, 255);
+border-radius: 15px;
+margin: 0px 0px 0px 50px;
+
+
+}
+
+#c:hover{
+
+-webkit-filter: grayscale(100%);
+filter: grayscale(100%);
+
+}
+
+ ul{
+ 
+border-radius: 12px;  
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+
+ }
+
+ li{
+ float: left;
+ }
+
+ li a{
+
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+ 
+ }
+
+ .g{
+ background-color: turquoise;
+
+ }
+
+
+ 
+
+ 
+ 
+
+
+.gta{
+  
+  background-color: rgb(255, 145, 0);
+  border-radius: 15px;
+  margin: 0px 200px 0px 200px;
+  text-align: center;
+  color: white;
+
+}
+
+ .ca{
+  padding: 0px 200px 0px 400px;
+ }
+
+
+
+
+.meu{
+ 
+  width: 380px;
+
+
+}
+
+
+
+ 
+
+
+.lucas{
+
+ background-image: url("/img/fundo.jpg");
+margin: 50px 15px 0px 15px ;
+padding: 20px 0px 200px 0px;
+color: white;
+
+}
+
+ 
+
+#lucas{
+
+background-color: rgb(189, 90, 90);
+color: white;
+margin: 0px 200px 0px 200px;
+text-align: center;
+border-radius: 15px;
+
+
+}
+
+#textoj{
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+
+}
+#textoj h2{
+
+color: yellow;
+
+}
+#textoj h1{
+color:red;
+
+}
+
+#textoj h2{
+   
+  text-align: unset;
+  }
