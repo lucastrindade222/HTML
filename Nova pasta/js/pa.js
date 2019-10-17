@@ -24,7 +24,3 @@ setTimeout(carousel,6000);
 
  }
 
-
-
-
-  

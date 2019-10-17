@@ -1,11 +1,5 @@
 
 
-body{
-
-background-image: url("/img/fundo.jpg");
-
-
-}
 
 
 .a{
@@ -73,13 +67,13 @@ filter: grayscale(100%);
 }
 
  ul{
- 
+font: italic;
 border-radius: 12px;  
 list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color: #333;
+background-color:#333;
 
  }
 
@@ -99,14 +93,11 @@ text-decoration: none;
 
  .g{
  background-color: turquoise;
+ 
 
  }
-
-
  
-
- 
- 
+  
 
 
 .gta{
@@ -120,7 +111,8 @@ text-decoration: none;
 }
 
  .ca{
-  padding: 0px 200px 0px 400px;
+   
+  padding: 0px 306px 0px 200px;
  }
 
 
@@ -140,7 +132,6 @@ text-decoration: none;
 
 .lucas{
 
- background-image: url("/img/fundo.jpg");
 margin: 50px 15px 0px 15px ;
 padding: 20px 0px 200px 0px;
 color: white;
@@ -179,3 +170,45 @@ color:red;
    
   text-align: unset;
   }
+
+
+ .buscador{
+
+background-color: #2F4F4F;
+border: solid 1px;
+border-radius: 15px;
+ 
+float: inline-end;
+margin: 300px 0px 0px 0px;
+ 
+
+ }
+
+ .textbu{
+
+float: inline-end;
+padding-left: 5px;
+font-style: italic;
+font-size: 18px;
+border-radius: 15px;
+margin: 10px 1px 0px 0px;
+
+
+ }
+
+ .bus{
+  float: inline-end;
+  border-radius: 15px;
+  margin: 7px 2px 0px 0px;
+  border: solid;
+ 
+
+ }
+
+  
+ 
+#re{
+position: relative;
+float: inline-end;
+
+}
